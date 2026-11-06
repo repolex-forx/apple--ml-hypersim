@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/apple/ml-hypersim/commit/3463c5c4a75f3cbfc65ed31cfd6e87204b3a2254",
       "git:hexsha": "3463c5c4a75f3cbfc65ed31cfd6e87204b3a2254",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
